@@ -2,7 +2,7 @@ import './App.css';
 
 import React, { useEffect, useState } from 'react';
 
-const API_ENDPOINT = 'https://boiling-journey-56593.herokuapp.com/users';
+const API_ENDPOINT = 'https://whispering-harbor-58993.herokuapp.com/users';
 
 function App() {
   const [data, setData] = useState([]);
